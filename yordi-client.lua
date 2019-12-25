@@ -25,3 +25,14 @@ AddEventHandler("yordi:cleaningcloth", function()
 		end)
 	end
 end)
+
+RegisterNetEvent('lul:suyusık')
+AddEventHandler('lul:suyusık', function()
+
+	Citizen.CreateThread(function()
+	Citizen.Wait(10000)
+	exports['mythic_notify']:SendAlert('success', 'Suyu Başarıyla Sıkıldı.')
+
+        end)
+    end
+end)
