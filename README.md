@@ -1,1 +1,3 @@
-Yordi - Temizlik Bezi (www.fivemturk.com)
+Yordi - Temizlik Bezi
+
+## Kurulum
