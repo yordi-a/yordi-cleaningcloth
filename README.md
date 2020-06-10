@@ -1,5 +1,5 @@
 ## Yordi
-Benim tarafımdan yapılmış olan __Yordi Cleaning Cloth__ scriptini dilediğiniz gibi kullanıp, geliştirmeler yapabilirsiniz. Diğer yapmış olduğum scriptlere veya düzenlemiş olduğum scriptlere bakmak için [Websitemi](https://yordi.online) ziyaret edin.
+Benim tarafımdan geliştirilmiş olan __Yordi Cleaning Cloth__ scriptini dilediğiniz gibi kullanıp, geliştirmeler yapabilirsiniz. Diğer yapmış olduğum scriptlere veya düzenlemiş olduğum scriptlere bakmak için [Websitemi](https://yordi.online) ziyaret edin.
 
 ## Yordi Cleaning Cloth
 - Kolay bir şekilde araç temizleme scripti.
